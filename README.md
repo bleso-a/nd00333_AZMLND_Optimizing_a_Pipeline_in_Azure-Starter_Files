@@ -55,4 +55,4 @@ For future work, it would be nice to explore more into the data, by carrying out
 
 ## Proof of cluster clean up
 
-![]()
+![cleanup](https://github.com/bleso-a/nd00333_AZMLND_Optimizing_a_Pipeline_in_Azure-Starter_Files/blob/master/cleanup.png)
